@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
+    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="local changes">
+      <change afterPath="$PROJECT_DIR$/awx/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LES_PLAYBOOKS.md" beforeDir="false" afterPath="$PROJECT_DIR$/LES_PLAYBOOKS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,7 @@
       <workItem from="1614922100293" duration="16791000" />
       <workItem from="1615190495313" duration="601000" />
       <workItem from="1615365786047" duration="2194000" />
-      <workItem from="1615368447055" duration="28054000" />
+      <workItem from="1615368447055" duration="31650000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>
@@ -242,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614931862566</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="local changes">
+      <created>1615539089501</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1615539089501</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -288,6 +293,7 @@
     <MESSAGE value="changed in-memory inventory" />
     <MESSAGE value="changed comments" />
     <MESSAGE value="More few changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="More few changes" />
+    <MESSAGE value="local changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="local changes" />
   </component>
 </project>
